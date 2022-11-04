@@ -1,2 +1,10 @@
 # Lab11_ERD
-Create a diagram for the Async Inn based on the requirements. Be sure that each table has an ID(entity) field and that Related tables are clearly notated
+
+Name: Storm O'Bryant
+Today's Date: 11/04/2022
+
+## ERD Image
+
+![ERD Image](lab11.jpg)
+
+This project contains a diagram for the Async Inn based on the requirements. Each table has an ID(entity) field and Related tables are clearly notated
